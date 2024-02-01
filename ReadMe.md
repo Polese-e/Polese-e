@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=974bd1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ec41ae&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Enzo+Polese+Damasceno;I'm+19+years+old;I+am+from+Votória,+ES;I+study+analysis+and+systems+development+at+Faesa;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ec41ae&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Enzo+Polese+Damasceno;I'm+19+years+old;I+am+from+Vitória,+ES;I+study+analysis+and+systems+development+at+Faesa;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Polese-e&show_icons=true&count_private=true&hide_border=true&title_color=9704d8&icon_color=ec41ae&text_color=ff5e85&bg_color=0d1117" alt="Enzo Polese Damasceno github stats" /> 
