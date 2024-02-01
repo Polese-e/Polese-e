@@ -3,7 +3,7 @@
 👋 Hi, I'm Enzo Polese, a programming enthusiast passionate about turning lines of code into amazing solutions. Currently, I study and work in the programming area, exploring different technologies and improving my skills.
 
 # 🚀 About Me:
-🖥️ Programming student<br>💼 Looking for Internship<br>📚 Learning Front End
+🖥️ Programming student<br>💼 Looking for Internship<br>📚 self-taught<br>🤝 Team work
 
 
 ## 🌐 Socials:
