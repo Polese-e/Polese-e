@@ -1,4 +1,4 @@
-<img align="right" height="240" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a student of Systems Analysis and Development, currently in my third semester.<br/> I have a huge passion for technology and software development, and I'm always <br/>looking to learn and apply new knowledge. Currently, I'm enhancing my skills in .NET, <br/>Python, JavaScript, and MySQL. I enjoy working on challenging projects and aim to <br/>contribute to innovative tech solutions.</p>
+<p align="left">I'm a student of Systems Analysis and Development, currently in my third semester. <br/>I have a huge passion for technology and software development, and I'm always <br/>looking to learn and apply new knowledge. Currently, I'm enhancing my skills in .NET, Python, JavaScript, and MySQL. I enjoy working on challenging projects and aim to contribute to innovative tech solutions.</p>
 
 ###
 
@@ -65,7 +65,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polese-e&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="230" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polese-e&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=nord&hide_border=true&order=2" height="230" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=polese-e&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polese-e&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=nord&hide_border=true&order=2" height="190" alt="languages graph"  />
 </div>
-
