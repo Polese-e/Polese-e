@@ -44,26 +44,6 @@
 
 ###
 
-###
-
-<h3 align="left">📩 Contact:</h3>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/polese-e" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="37" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:enzopolesedamasceno@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="37" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/polese_e/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="37" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">📊 Stats:</h3>
 
 ###
