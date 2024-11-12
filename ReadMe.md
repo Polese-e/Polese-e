@@ -16,29 +16,29 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
 </div>
 
