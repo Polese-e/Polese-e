@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Hello! I'm Enzo Polese 👋</h3>
+<h3 align="left">Olá! Eu sou Enzo Polese 👋</h3>
 
 ###
 
-<p align="left">I'm a student of Systems Analysis and Development, currently in my third semester. <br/>I have a huge passion for technology and software development, and I'm always <br/>looking to learn and apply new knowledge. Currently, I'm enhancing my skills in .NET, Python, JavaScript, and MySQL. I enjoy working on challenging projects and aim to contribute to innovative tech solutions.</p>
+<p align="left">Sou um desenvolvedor autodidata com foco em soluções práticas e eficientes. Atualmente, estou aperfeiçoando minhas habilidades em desenvolvimento web moderno. Tenho experiência em tecnologias como PHP, JavaScript e SQL, além de frameworks como Laravel e Bootstrap. Gosto de enfrentar projetos desafiadores, aprender novas tecnologias e contribuir para soluções inovadoras no mundo tech.</p>
 
 ###
 
