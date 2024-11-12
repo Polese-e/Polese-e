@@ -7,7 +7,7 @@
 ###
 
 <p align="left" style="margin-right: 30px;">
-  Sou um desenvolvedor autodidata focado em soluções práticas. Estou aprimorando habilidades em desenvolvimento web. Tenho experiência com PHP, JavaScript e SQL, além de frameworks como Laravel e Bootstrap. Gosto de desafios, aprender novas tecnologias e contribuir para soluções inovadoras.
+  Sou um desenvolvedor autodidata focado em soluções práticas e eficientes. Tenho experiência em PHP, JavaScript, SQL, Laravel e Bootstrap. Busco constantemente aprimorar minhas habilidades em desenvolvimento web. Gosto de desafios, de aprender novas tecnologias e de contribuir para soluções inovadoras que agreguem valor.
 </p>
 
 
