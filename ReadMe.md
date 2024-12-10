@@ -20,6 +20,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
   <img width="7" />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
@@ -39,8 +41,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
 </div>
